@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/animal-sniffer-annotations-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/checker-qual-2.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/error_prone_annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/guava-27.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/guava-gwt-27.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Shrawani/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/animal-sniffer-annotations-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/checker-qual-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/error_prone_annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/guava-27.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/guava-gwt-27.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shraw/eclipse-workspace/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
